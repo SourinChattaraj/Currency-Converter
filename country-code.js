@@ -1,0 +1,20 @@
+const currencies = [
+    "AFN", "ALL", "DZD", "AOA", "ARS", "AMD", "AUD", "EUR", "AZN", "BSD",
+    "BHD", "BDT", "BBD", "BYN", "BZD", "XOF", "BTN", "BOB", "BAM", "BWP",
+    "BRL", "BND", "BGN", "XOF", "BIF", "CVE", "KHR", "XAF", "CAD", "XAF",
+    "XAF", "CLP", "CNY", "COP", "KMF", "CDF", "XAF", "CRC", "HRK", "CUP",
+    "EUR", "CZK", "DKK", "DJF", "XCD", "DOP", "USD", "USD", "EGP", "USD",
+    "XAF", "ERN", "EUR", "SZL", "ETB", "FJD", "EUR", "EUR", "XAF", "GMD",
+    "GEL", "EUR", "GHS", "EUR", "XCD", "GTQ", "GNF", "XOF", "GYD", "HTG",
+    "HNL", "HKD", "HUF", "ISK", "INR", "IDR", "IRR", "IQD", "EUR", "ILS",
+    "EUR", "JMD", "JPY", "JOD", "KZT", "KES", "AUD", "KPW", "KRW", "KWD",
+    "KGS", "LAK", "EUR", "LBP", "LSL", "LRD", "LYD", "CHF", "EUR", "EUR",
+    "MGA", "MWK", "MYR", "MVR", "XOF", "EUR", "USD", "MRU", "MUR", "MXN",
+    "USD", "MDL", "EUR", "MNT", "EUR", "MAD", "MZN", "MMK", "NAD", "NPR",
+    "ANG", "XPF", "NZD", "NIO", "NGN", "KPW", "MKD", "NOK", "OMR", "PKR",
+    "PAB", "PGK", "PYG", "PEN", "PHP", "PLN", "QAR", "RON", "RUB", "RWF",
+    "SHP", "WST", "STN", "SAR", "RSD", "SCR", "SLL", "SGD", "SBD", "SOS",
+    "ZAR", "SSP", "LKR", "SDG", "SRD", "SZL", "SEK", "CHF", "SYP", "TWD",
+    "TJS", "TZS", "THB", "TOP", "TTD", "TND", "TRY", "TMT", "UGX", "UAH",
+    "AED", "GBP", "USD", "UYU", "UZS", "VUV", "VES", "VND", "YER", "ZMW"
+];

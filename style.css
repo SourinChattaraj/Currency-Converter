@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{
+    font-family: "Ubuntu", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: #97D5C8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    width: 370px;
+    height: 500px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+.logo_text{
+    width: 100%;
+    height: 35%;
+    
+   text-align: center;
+    padding-top: 10px;
+}
+.logo_text img{
+    height: 100px;
+}
+.logo_text h3{
+    font-size: 28px;
+    margin: 10px 10px;
+}
+.input_amt{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.input_amt label{
+    margin: 10px 0 10px 0;
+    font-weight: bold;
+    font-size: 16px;
+}
+.input_amt input{
+    height: 30px;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #5A6D7F;
+    font-size: 18px;
+    color: #5A6D7F;
+}
+.dropdown{
+    margin: 30px 0 30px 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 1rem;
+    
+}
+.dropdown select{
+   width: 100%;
+   height: 40px;
+   background-color: #5B6E7F;
+   color: white;
+   border: none;
+   outline: none;
+   padding: 7px;
+   cursor: pointer;
+}
+#convert{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 2.7rem;
+    align-items: center;
+    background-color: #5C6D7F;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.output{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #aed9d0;
+    height: 2.7rem;
+    margin-top: 17px;
+    border-radius: 8px;
+}
